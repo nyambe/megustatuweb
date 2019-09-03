@@ -4,7 +4,7 @@ title: Programación para principiantes expertos
 date: 2019-09-01T13:08:56.754Z
 description: La experiencia como valor añadido
 featuredpost: true
-featuredimage: /img/58877716801__ec2219a2-8cb9-4a20-bb21-54939312693c.jpeg
+featuredimage: /img/120314073550-superhero-peter-parker-story-top.jpg
 tags:
   - mirame
   - que tal
