@@ -21,5 +21,5 @@ Por tanto
 ```
 
 ```
-<p>Battle of the Burger es un festival de rock‘n’roll repleto de bandas increíbles, hamburguesas legendarias, djs incombustibles, cervezas y cócteles de escándalo, desafíos épicos de comida ¡y mucho entretenimiento!</p>
+
 ```
