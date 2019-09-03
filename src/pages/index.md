@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: 'Oye, me gusta tu web!'
-image: /img/fullsizerender.jpeg
-heading: Great coffee with a conscience
+title: Me gusta tu web!
+image: /img/rap.jpg
+heading: Desarrollo Web
 subheading: Aventuras en el desarrollo web
 mainpitch:
-  title: Adan sin Eva
+  title: 'Muy bonito, pero cómo?'
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Somos creativos, tenemos ideas, muchas.  Algunas ideas son buenas y otras
+    geniales.  
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
