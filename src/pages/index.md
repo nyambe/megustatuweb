@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Me gusta tu web!
-image: /img/rap.jpg
+image: /img/fondo.jpg
 heading: Desarrollo Web
 subheading: Aventuras en el desarrollo web
 mainpitch:
