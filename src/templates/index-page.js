@@ -16,6 +16,30 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
+    <div className="hero-body">
+                <div className="container">
+                    <div className="columns is-vcentered">
+                        <div className="column is-5 is-offset-1 landing-caption">
+                            <h1 className="title is-1 is-bold is-spaced">
+                                Manage, Deploy.
+                            </h1>
+                            <h2 className="subtitle is-5 is-muted">Lorem ipsum sit dolor amet is a dummy text used by typography industry </h2>
+                            <p>
+                                <a className="button cta rounded primary-btn raised">
+                                    Get Started
+                                </a>
+                            </p>
+                        </div>
+                        <div className="column is-5 is-offset-1">
+                            <figure className="image is-4by3">
+                                <img src="https://cssninjastudio.github.io./assets/images/illustrations/worker.svg" alt="Description"></img>
+                            </figure>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+
     <div
       className="full-width-image margin-top-0"
       style={{
