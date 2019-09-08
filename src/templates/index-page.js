@@ -21,13 +21,13 @@ export const IndexPageTemplate = ({
                     <div className="columns is-vcentered">
                         <div className="column is-5 is-offset-1 landing-caption">
                             <h1 className="title is-1 is-bold is-spaced">
-                                Manage, Deploy.
+                               Me gusta tu web.
                             </h1>
-                            <h2 className="subtitle is-5 is-muted">Lorem ipsum sit dolor amet is a dummy text used by typography industry </h2>
+                            <h2 className="subtitle is-5 is-muted">Making web development fun again!!</h2>
                             <p>
-                                <a className="button cta rounded primary-btn raised">
-                                    Get Started
-                                </a>
+                                <Link className="btn button cta rounded primary-btn raised" to="/blog">
+                                  Blog
+                                </Link>
                             </p>
                         </div>
                         <div className="column is-5 is-offset-1">
